@@ -1,6 +1,7 @@
 # Straights-Game
 Simple Card Game Coded using C
 To Play: Run straights.exe
+>
 How to Play:
 Start
 At the beginning of the program, prompt the user with the following message:
@@ -40,9 +41,7 @@ the specified card is in the players hand. However, it might not be a legal play
 If the play is legal, print:
 Player<x> plays <card>.
 and proceed to the next player. Otherwise, print:
-This is not a legal play.
->
-and do not proceed to the next player until a legal play is made.
+This is not a legal play.and do not proceed to the next player until a legal play is made.
   
 discard <card> 
 If the player has no legal plays, discard the specified card from the player’s hand into the player’s discard pile. Again, assume that
