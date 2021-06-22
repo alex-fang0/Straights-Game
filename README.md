@@ -6,6 +6,7 @@ To Play: Run straights.exe
 Rules of the Game:
 >
 Legal Plays
+>
 Immediately following the deal, the player with the 7 of spades goes first. This player must play the 7 of spades in the centre
 of the table. After the 7 of spades, the players take turns to play cards on the table. At this point, the players must play cards
 that constitute legal plays. The following cards are legal:
@@ -23,11 +24,13 @@ the 6 of spades, the 7 of diamonds, the 7 of hearts, and the 7 of clubs. In this
 “pile” so long as there are no gaps.
 >
 Discards
+>
 When a player has no legal plays, they must then choose a card in their hand, and place it face down in front of them. This is a
 discard. Note that if a player has at least one legal play in their hand, then they must make a legal play; they may not discard
 in this case.
 >
 Scoring
+>
 The round ends when all the cards have either been played or discarded. For each player, their score for the round is the sum
 of all the ranks of the players discards. Jacks, Queens, and Kings count as 11, 12, and 13 points, respectively. For example, if
 a player discarded an Ace, a Six, and a King, the number of points would be 1 + 6 + 13 = 20.
