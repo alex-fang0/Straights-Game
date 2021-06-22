@@ -39,7 +39,8 @@ the end of a round, then the deck is reshuffled and another round begins.
 
 How to Play:
 >
-Start
+Start:
+>
 At the beginning of the program, prompt the user with the following message:
 Is Player<x> a human (h) or a computer (c)?
 where <x> is the id number representing the player being initialized. The user then types either h or c to set the desired
@@ -49,7 +50,8 @@ The game starts after the shuffle and the deal. The four players take turns to p
 A new round begins. It’s Player<x>’s turn to play.
 where <x> depends on who has the 7 of spades.
 
-Human Player
+Human Player:
+>
 Whenever it is a human player’s turn, print the following 8 lines:
 Cards on the table:
 Clubs:<list of clubs>
@@ -68,7 +70,8 @@ single space separates each card from the next. There is no space after the fina
 the list of cards consists of an empty string i.e. print Legal plays:\n.
 The program then waits for the user to enter a command.
 
-Commands
+Commands:
+>
 There are 5 valid commands for the human player in this game:
 
 play <card> 
